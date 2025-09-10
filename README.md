@@ -12,3 +12,7 @@ Dự án "QuanLyThuVien" là một ứng dụng Quản lý thư viện được 
 - Thiết kế hệ thống: Xây dựng mô hình quy trình quản lý sách, sử dụng phương pháp Agile để lập kế hoạch và kiểm thử.
 - Triển khai: Phát triển ứng dụng bằng C# và Visual Studio, đảm bảo tính năng đáp ứng nhu cầu người dùng.
 - Kết quả: Tối ưu hóa quy trình quản lý thư viện, giảm thời gian xử lý giao dịch thủ công.
+
+# Công nghệ sử dụng
+- Ngôn ngữ lập trình: C# (.NET Framework).
+- Công cụ: Microsoft Visual Studio.
